@@ -2,5 +2,5 @@
   "date": "2020-11-15T03:25:44.190Z",
   "title": "New blog by Kathy",
   "description": "Test to see what happens after I add a new blog.",
-  "body": "This is the body of the blog. It has an option of writing Rich Text or markdown. I will edit this to see what happens."
+  "body": "This is the body of the blog. It has an option of writing Rich Text or markdown. I will edit this to see what happens.\n\n```html\n<div> \n<p>I have added a code block to see what happened. </p>\n  <p>Click on the settings icon in the upper right of the code block to set to HTML. There are other options also.</p>\n</div>\n```"
 }
