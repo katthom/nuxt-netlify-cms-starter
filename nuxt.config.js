@@ -26,7 +26,8 @@ export default {
           payload: require(`./assets/content/blog/${file}`)
         }
       })
-    }
+    },
+    fallback: true
   },
   /*
    ** Customize the progress-bar color
